@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.write("Kya re bsdk? Jeeta match?")
+st.write("Welcome to Streamlit!")
